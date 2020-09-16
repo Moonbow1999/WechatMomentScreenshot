@@ -42,8 +42,8 @@ xhrGet('https://cdn.jsdelivr.net/gh/TransparentLC/WechatMomentScreenshot/emotico
 
 // 读取配置
 var configDefault = {
-    name: 'A 营销号免费广告姬',
-    text: '很实用的教程[微笑]\n需要收集五个赞 谢谢大家啦～(　^ω^)',
+    name: '昵称',
+    text: '正文,
     location: '',
     app: '',
     height: 1920,
